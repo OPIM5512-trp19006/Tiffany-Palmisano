@@ -5,7 +5,7 @@ Program: MSBAPM @ UCONN
 
 Skills I'm learning this semester
   - How to use GitHub
-  - How to code
+  - How to be more efficient with the Python language
   - How to work collaboratively online
   - How to wrangle data and extract information
   
