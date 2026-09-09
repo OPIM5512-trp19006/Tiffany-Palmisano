@@ -6,4 +6,4 @@
   #2. How to code
   #3. How to work collaboratively online
   #4. How to wrangle data and extract information
-# " From patients to Python, always solving problems."
+##" From patients to Python, always solving problems."
